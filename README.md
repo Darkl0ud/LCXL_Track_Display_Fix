@@ -19,7 +19,9 @@ I then plopped these uncompiled .py files into the Ableton MIDI Remote Script LC
 Not it reads the correct values.
 
 ## Install
-  DISCLAIMER: I am not responsible for any damages, etc. Though, I don't see how this could break anything. That's why we make BACKUPS. This has only been tested on Live 12.
+
+> [!WARNING]
+> I am not responsible for any damages, etc. Though, I don't see how this could break anything. That's why we make BACKUPS. This has only been tested on Live 12.
 1. Close Live if it's open.
 2. Backup your current LaunchControlXL.pyc from Ableton's folder for the MIDI Remote Script for the LCXL.  
 
