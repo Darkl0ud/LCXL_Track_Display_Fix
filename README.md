@@ -1,5 +1,5 @@
 # LCXLTrackDisplayFix
-![Static Badge](https://img.shields.io/badge/Status-Release1.0.0-green) <br>
+![Static Badge](https://img.shields.io/badge/Status-Releasev1.0.0-green) <br>
 ## The problem.
 Ever noticed this when using the Track Select buttons on your LCXL?  
   
